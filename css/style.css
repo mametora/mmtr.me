@@ -43,6 +43,7 @@ body {
 .social-icons a {
   display: inline-block;
   font-size: 3em;
+  line-height: 1.3em;
   margin-right: 10px;
 }
 
