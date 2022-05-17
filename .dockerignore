@@ -1,0 +1,4 @@
+.dockerignore
+CNAME
+docker-compose.yml
+Dockerfile
