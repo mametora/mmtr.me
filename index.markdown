@@ -1,6 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: About
 ---
+
+## SNS or other links
+
+- [Twitter](https://twitter.com/mmtrum)
+- [GitHub](https://github.com/mametora)
+- [GitLab](https://gitlab.com/mametora)
+- [BitBucket](https://bitbucket.org/mametora)
+- [Instagram](https://www.instagram.com/nyahtora)
+- [Flickr](https://www.flickr.com/people/nyahtora)
+- [YouTube](https://www.youtube.com/user/mametorarara)
+- [Twitch](https://www.twitch.tv/mametora)
+- [Spotify](https://open.spotify.com/user/mametora)
+- [SoundCloud](https://soundcloud.com/mmtr)
+- [Mixcloud](https://www.mixcloud.com/qtora)
+- [Steam](https://steamcommunity.com/id/mametora)
+- [VRChat](https://vrchat.com/home/user/usr_14fe4f81-946a-4ef6-9c02-8dc5bdecd8e1)
