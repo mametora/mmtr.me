@@ -1,4 +1,5 @@
 ---
+title: Blog Opened
 layout: post
 ---
 
